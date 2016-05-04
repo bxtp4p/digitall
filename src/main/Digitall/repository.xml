@@ -6209,7 +6209,7 @@
                                                           jcr:createdBy="root"
                                                           jcr:lastModified="2016-05-03T22:59:10.211Z"
                                                           jcr:lastModifiedBy="root"
-                                                          jcr:mixinTypes="jdmix:hasReadMore jmix:vanityUrlMapped"
+                                                          jcr:mixinTypes="jdmix:removeReadMore jmix:vanityUrlMapped"
                                                           jcr:primaryType="jnt:news">
                                     <j:translation_de desc="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Digitall wurde 2005 von engagierten Personen gegr&amp;uuml;ndet, die gemeinsam beschlossen all ihre Ressourcen zu b&amp;uuml;ndeln, um die Welt lebenswert zu gestalten. Durch die Bildung einer Holdinggesellschaft wurde der Grundstein f&amp;uuml;r eine weltweite Perspektive geschaffen. Mit der geb&amp;uuml;hrenden Sorgfalt stellen wir die Ergebnisse unserer Gesellschaften den Anlegern transparent offen.&lt;/span&gt;&lt;/p&gt;&#xA;&#xA;&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Julie Heginbottom wurde zum CEO ernannt, da sie &amp;uuml;ber breites Spektrum an Erfahrung verf&amp;uuml;gt. sie hat Digitall als Serviceorganisation positioniert, und das Unternehmen dabei unterst&amp;uuml;tzt noch besser werden.&lt;/span&gt;&lt;/p&gt;&#xA;"
                                              j:lastPublished="2016-05-03T23:31:58.784Z"
@@ -6302,7 +6302,7 @@
                                                          jcr:createdBy="root"
                                                          jcr:lastModified="2016-01-21T17:35:26.921-05:00"
                                                          jcr:lastModifiedBy="root"
-                                                         jcr:mixinTypes="jdmix:hasReadMore jmix:vanityUrlMapped"
+                                                         jcr:mixinTypes="jdmix:removeReadMore jmix:vanityUrlMapped"
                                                          jcr:primaryType="jnt:news">
                                     <j:translation_de desc="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Home Broker wurde am 3. Oktober 2005 in Los Angeles gegr&amp;uuml;ndet, um den Bau von umweltfreundlichen innovativen Fertigh&amp;auml;usern und Gesch&amp;auml;ftsgeb&amp;auml;uden zu revolutionieren. Home Broker&amp;#39;s Ziel ist es nicht nur Einzelpersonen und Familien eine umweltfreundliche Wohnumgebung zu schaffen, sondern auch alle neuen B&amp;uuml;ror&amp;auml;umlichkeiten, die unter der Federf&amp;uuml;hrung von Home Broker gebaut werden, eine umweltfreundliche Arbeitsumgebung zur Verf&amp;uuml;gung zu stellen.&lt;/span&gt;&lt;/p&gt;&#xA;"
                                              j:lastPublished="2016-04-06T18:53:38.575+02:00"
@@ -6396,7 +6396,7 @@
                                                           jcr:createdBy="root"
                                                           jcr:lastModified="2016-01-21T17:36:39.671-05:00"
                                                           jcr:lastModifiedBy="root"
-                                                          jcr:mixinTypes="jdmix:hasReadMore jmix:vanityUrlMapped"
+                                                          jcr:mixinTypes="jdmix:removeReadMore jmix:vanityUrlMapped"
                                                           jcr:primaryType="jnt:news">
                                     <j:translation_de desc="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Als Folge der klaren Ausrichtung von Digitall, &amp;nbsp;durch Technologien das t&amp;auml;gliche Lebens zu verbessern, investiert die Variante Group LLC &amp;nbsp;20.000.000 $, mit Wirkung zum 1. Januar 2006, in das stark wachsende Digitall Konglomerat. Der Investmentfonds wird es Digitall nun erm&amp;ouml;glichen, noch st&amp;auml;rker in neue Technologien zu investieren und neue M&amp;auml;rkte zu erschlie&amp;szlig;en.&lt;/span&gt;&lt;/p&gt;&#xA;"
                                              j:lastPublished="2016-04-06T18:53:38.575+02:00"
@@ -6490,7 +6490,7 @@
                                                           jcr:createdBy="root"
                                                           jcr:lastModified="2016-01-21T17:41:27.342-05:00"
                                                           jcr:lastModifiedBy="root"
-                                                          jcr:mixinTypes="jdmix:hasReadMore jmix:vanityUrlMapped"
+                                                          jcr:mixinTypes="jdmix:removeReadMore jmix:vanityUrlMapped"
                                                           jcr:primaryType="jnt:news">
                                     <j:translation_de desc="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Digitall ist stolz Robo Movers in unserer Unternehmensgruppe willkommen zu hei&amp;szlig;en. Robo Movers ist f&amp;uuml;hrend in der Entwicklung und Herstellung von Prototypenfahrzeugen. Zudem revolutionierte er das Transportwesen durch seine sauberen Energiequellen. Es wird an unserem Standort Z&amp;uuml;rich, in der Schweiz, das weltweite Forschungsteam leiten.&lt;/span&gt;&lt;/p&gt;&#xA;"
                                              j:lastPublished="2016-04-06T18:53:38.575+02:00"
@@ -6584,7 +6584,7 @@
                                                           jcr:createdBy="root"
                                                           jcr:lastModified="2016-01-21T17:45:00.951-05:00"
                                                           jcr:lastModifiedBy="root"
-                                                          jcr:mixinTypes="jdmix:hasReadMore jmix:vanityUrlMapped"
+                                                          jcr:mixinTypes="jdmix:removeReadMore jmix:vanityUrlMapped"
                                                           jcr:primaryType="jnt:news">
                                     <j:translation_de desc="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Alan Blomquist, fr&amp;uuml;her der Controller von Digitall, wurde zum Chief Financial Officer und Senior Analyst ernannt. In dieser ungew&amp;ouml;hnlichen Kombination von Verantwortlichkeiten leitet Alan mit gr&amp;ouml;&amp;szlig;ter Sorgfalt nun die Investmentanalyse f&amp;uuml;r das gesamte Kapitalportfolio und unterst&amp;uuml;tzt die Portfoliostrukturierung unter der Einhaltung der Finanzstandards der mehrj&amp;auml;hrigen Haushaltsplanung. Er ist zudem im Vorstand von Conservancy als Treuh&amp;auml;ndler t&amp;auml;tig.&lt;/span&gt;&lt;/p&gt;&#xA;"
                                              j:lastPublished="2016-04-06T18:53:38.575+02:00"
@@ -6678,7 +6678,7 @@
                                                           jcr:createdBy="root"
                                                           jcr:lastModified="2016-01-21T17:50:26.673-05:00"
                                                           jcr:lastModifiedBy="root"
-                                                          jcr:mixinTypes="jdmix:hasReadMore jmix:vanityUrlMapped"
+                                                          jcr:mixinTypes="jdmix:removeReadMore jmix:vanityUrlMapped"
                                                           jcr:primaryType="jnt:news">
                                     <j:translation_de desc="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Die riesigen Wachstumsm&amp;auml;rkte der Luft- und Raumfahrtindustrie f&amp;uuml;ren dazu, dass die Acme Space Ltd und Digitall miteinander verschmelzen, um das Kundenportfolio der internationalen Luft- und Raumfahrtindustrie zu erweitern. Die operativen T&amp;auml;tigkeiten von Digitall und Acme Space Ltd werden ab sofort vom ehemaligen Chief Information Officer Joshua Singh der Acme Space Ltd &amp;uuml;bernommen. Dar&amp;uuml;ber hinaus wird er f&amp;uuml;r das Risikomanagement und betriebliche Prozesse als Compliance Officer verantwortlich sein. Joshua besitzt einen Masterabschluss in Technologie der Bistauk University, einen MBA von der Royal Cornwall University und einen Bachelorabschluss in Informatik von der Rajestan B&amp;uuml;rgermeister University.&lt;/span&gt;&lt;/p&gt;&#xA;"
                                              j:lastPublished="2016-04-06T18:53:38.575+02:00"
