@@ -7681,7 +7681,7 @@
                                                    jcr:lastModified="2016-03-25T16:56:02.068+01:00"
                                                    jcr:lastModifiedBy="root"
                                                    jcr:primaryType="jnt:contentList">
-                        <top-stories internalLink="/sites/digitall/home/newsroom/all-news"
+                        <top-stories internalLink="/sites/digitall/home/newsroom/all-news/section--container--row--grid-main/all-news"
                                j:level="first"
                                j:limit="1"
                                j:originWS="default"
@@ -7689,7 +7689,7 @@
                                jcr:createdBy="root"
                                jcr:lastModified="2016-03-25T16:56:02.057+01:00"
                                jcr:lastModifiedBy="root"
-                               jcr:mixinTypes="jdmix:internalLink jdmix:topViews jmix:renderable"
+                               jcr:mixinTypes="jdmix:topStoriesLink jdmix:topViews jmix:renderable"
                                jcr:primaryType="jnt:topStories"
                                view="newsroom">
                             <j:translation_en jcr:language="en"
@@ -7698,7 +7698,7 @@
                                        jcr:primaryType="jnt:translation"
                                        linkTitle="More Top News"/>
                         </top-stories>
-                        <top-stories-1 internalLink="/sites/digitall/home/newsroom/all-news"
+                        <top-stories-1 internalLink="/sites/digitall/home/newsroom/all-news/section--container--row--grid-main/all-news"
                                  j:level="second"
                                  j:limit="2"
                                  j:originWS="default"
@@ -7706,7 +7706,7 @@
                                  jcr:createdBy="root"
                                  jcr:lastModified="2016-03-25T16:56:02.068+01:00"
                                  jcr:lastModifiedBy="root"
-                                 jcr:mixinTypes="jdmix:internalLink jdmix:topViews"
+                                 jcr:mixinTypes="jdmix:topStoriesLink jdmix:topViews"
                                  jcr:primaryType="jnt:topStories"
                                  view="newsroom">
                             <j:translation_en jcr:language="en"
