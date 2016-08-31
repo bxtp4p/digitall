@@ -5433,6 +5433,13 @@
                     <j:members jcr:primaryType="jnt:members">
                         <users jcr:primaryType="jnt:members">
                             <root j:member="#/users/root" jcr:primaryType="jnt:member"/>
+                            <hj jcr:primaryType="jnt:members">
+                                <di jcr:primaryType="jnt:members">
+                                    <ac jcr:primaryType="jnt:members">
+                                        <bill j:member="#/users/hj/di/ac/bill" jcr:primaryType="jnt:member"/>
+                                    </ac>
+                                </di>
+                            </hj>
                         </users>
                     </j:members>
                 </site-administrators>
