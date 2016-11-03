@@ -85,72 +85,34 @@
     <build>
         <resources>
             <resource>
-                <directory>src/main/resources</directory>
-            </resource>
-            <resource>
-                <targetPath>${project.build.directory}/Digitall-import</targetPath>
-                <directory>${basedir}/src/main/prepackagedSites</directory>
+                <directory>${project.build.directory}/classes/META-INF/prepackagedSites</directory>
                 <includes>
-                    <include>export.properties</include>
+                    <include>digitall.zip</include>
                 </includes>
+                <targetPath>META-INF/prepackagedSites</targetPath>
             </resource>
         </resources>
         <plugins>
             <plugin>
-                <artifactId>maven-assembly-plugin</artifactId>
-
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-antrun-plugin</artifactId>
                 <executions>
                     <execution>
-                        <id>Digitall</id>
-                        <configuration>
-                            <descriptors>
-                                <descriptor>src/main/assembly/Digitall.xml</descriptor>
-                            </descriptors>
-                            <attach>false</attach>
-                            <finalName>Digitall</finalName>
-                            <appendAssemblyId>false</appendAssemblyId>
-                            <outputDirectory>${project.build.directory}/Digitall-import</outputDirectory>
-                        </configuration>
-
-                        <phase>validate</phase>
+                        <id>build-demo-site</id>
+                        <phase>generate-resources</phase>
                         <goals>
-                            <goal>single</goal>
-                        </goals>
-                    </execution>
-
-                    <execution>
-                        <id>users</id>
-                        <configuration>
-                            <descriptors>
-                                <descriptor>src/main/assembly/users.xml</descriptor>
-                            </descriptors>
-                            <attach>false</attach>
-                            <finalName>users</finalName>
-                            <appendAssemblyId>false</appendAssemblyId>
-                            <outputDirectory>${project.build.directory}/Digitall-import</outputDirectory>
-                        </configuration>
-
-                        <phase>validate</phase>
-                        <goals>
-                            <goal>single</goal>
-                        </goals>
-                    </execution>
-
-
-                </executions>
-            </plugin>
-            <plugin>
-                <groupId>org.jahia.server</groupId>
-                <artifactId>jahia-maven-plugin</artifactId>
-                <executions>
-                    <execution>
-                        <id>package-imports</id>
-                        <goals>
-                            <goal>package-imports</goal>
+                            <goal>run</goal>
                         </goals>
                         <configuration>
-                            <src>${project.build.directory}/Digitall-import</src>
-                            <archiveName>/prepackagedSites/digitall.zip</archiveName>
+                            <target>
+                                <zip destfile="${project.build.directory}/demo/Digitall.zip" basedir="${basedir}/src/main/Digitall"/>
+                                <zip destfile="${project.build.directory}/demo/users.zip" basedir="${basedir}/src/main/users"/>
+                                <zip destfile="${project.build.directory}/classes/META-INF/prepackagedSites/digitall.zip">
+                                    <fileset dir="${project.build.directory}/demo"/>
+                                    <fileset dir="${basedir}/src/main/prepackagedSites" includes="export.properties"/>
+                                </zip>
+                                <delete dir="${project.build.directory}/demo"/>
+                            </target>
                         </configuration>
                     </execution>
                 </executions>
