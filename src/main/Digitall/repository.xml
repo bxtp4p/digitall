@@ -63,32 +63,7 @@
                       jcr:lastModified="2016-04-06T18:48:52.009+02:00"
                       jcr:lastModifiedBy="system"
                       jcr:primaryType="jnt:folder">
-                        <glyphicons-halflings-regular.svg j:height="0"
-                                                    j:lastPublished="2016-10-14T13:47:16.911Z"
-                                                    j:lastPublishedBy="root"
-                                                    j:originWS="default"
-                                                    j:published="true"
-                                                    j:width="0"
-                                                    jcr:created="2016-10-14T13:47:16.512Z"
-                                                    jcr:createdBy="system"
-                                                    jcr:lastModified="2016-04-06T18:48:52.009+02:00"
-                                                    jcr:lastModifiedBy="system"
-                                                    jcr:mixinTypes="jmix:image"
-                                                    jcr:primaryType="jnt:file">
-                            <jcr:content j:lastExtractionDate="2016-10-14T13:47:34.635Z"
-                                  jcr:lastModified="2016-10-14T13:47:20.360Z"
-                                  jcr:lastModifiedBy="system"
-                                  jcr:mimeType="image/svg+xml"
-                                  jcr:primaryType="jnt:resource"/>
-                            <thumbnail jcr:lastModified="2016-10-14T13:47:20.361Z"
-                                jcr:lastModifiedBy="system"
-                                jcr:mimeType="image/svg+xml"
-                                jcr:primaryType="jnt:resource"/>
-                            <thumbnail2 jcr:lastModified="2016-10-14T13:47:20.361Z"
-                                 jcr:lastModifiedBy="system"
-                                 jcr:mimeType="image/svg+xml"
-                                 jcr:primaryType="jnt:resource"/>
-                        </glyphicons-halflings-regular.svg>
+
                         <glyphicons-halflings-regular.ttf j:lastPublished="2016-10-14T13:47:16.911Z"
                                                     j:lastPublishedBy="root"
                                                     j:originWS="default"
