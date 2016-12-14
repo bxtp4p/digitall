@@ -53,14 +53,14 @@
     </parent>
     <artifactId>digitall</artifactId>
     <name>Digitall Demo</name>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>bundle</packaging>
     <description>This module enables prepackaged Digitall Demo Website for use in Web Projects in the Server Settings.</description>
     <scm>
         <connection>scm:git:git@github.com:Jahia/digitall.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/digitall.git</developerConnection>
         <url>https://github.com/Jahia/digitall</url>
-      <tag>HEAD</tag>
+      <tag>1_0_1</tag>
   </scm>
   
   <properties>
@@ -105,13 +105,13 @@
                         </goals>
                         <configuration>
                             <target>
-                                <zip destfile="${project.build.directory}/demo/Digitall.zip" basedir="${basedir}/src/main/Digitall"/>
-                                <zip destfile="${project.build.directory}/demo/users.zip" basedir="${basedir}/src/main/users"/>
+                                <zip destfile="${project.build.directory}/demo/Digitall.zip" basedir="${basedir}/src/main/Digitall" />
+                                <zip destfile="${project.build.directory}/demo/users.zip" basedir="${basedir}/src/main/users" />
                                 <zip destfile="${project.build.directory}/classes/META-INF/prepackagedSites/digitall.zip">
-                                    <fileset dir="${project.build.directory}/demo"/>
-                                    <fileset dir="${basedir}/src/main/prepackagedSites" includes="export.properties"/>
+                                    <fileset dir="${project.build.directory}/demo" />
+                                    <fileset dir="${basedir}/src/main/prepackagedSites" includes="export.properties" />
                                 </zip>
-                                <delete dir="${project.build.directory}/demo"/>
+                                <delete dir="${project.build.directory}/demo" />
                             </target>
                         </configuration>
                     </execution>
