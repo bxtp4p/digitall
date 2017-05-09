@@ -5263,7 +5263,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Historie"
                                     jcr:uuid="8ea34be0-1be7-4bf6-8f6e-7e83ca66c606"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -5869,7 +5869,7 @@
                                              jcr:uuid="cbfaf3b7-a0c2-4e5a-9e35-bb4f873d85ae"/>
                                 </merger-with-acme-space-ltd-is-of>
                             </timeline>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </history>
                     <leadership j:lastPublished="2016-12-13T16:37:26.877-05:00"
                            j:lastPublishedBy="root"
@@ -5933,7 +5933,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Geschäftsführung"
                                     jcr:uuid="f4d1067f-d3fc-46ea-a10a-471d71ed2ab5"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -6103,7 +6103,7 @@
                                              jcr:uuid="0eb7a947-f66c-4d54-b30f-bae4720b26ad"/>
                                 </bob-aschel>
                             </list-of-people>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </leadership>
                     <landing j:lastPublished="2016-12-02T17:19:53.106-05:00"
                         j:lastPublishedBy="root"
@@ -6156,7 +6156,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Über uns"
                                  jcr:uuid="07c0c6c6-b06f-420e-9ad3-03c66deaa328"/>
-                    <section--container--row--grid-main j:contributeTypes="jnt:bigText"
+                    <area-main j:contributeTypes="jnt:bigText"
                                                    j:editableInContribution="true"
                                                    j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                    j:lastPublishedBy="root"
@@ -6207,7 +6207,7 @@
                                        jcr:uuid="18ab674d-878a-47f1-a689-db5e7698a404"
                                        text="&lt;p class=&#34;lead&#34;&gt;Digitall est un r&amp;eacute;seau de soci&amp;eacute;t&amp;eacute;s leader dans leur secteur respectif avec un focus unifi&amp;eacute; destin&amp;eacute; &amp;agrave; am&amp;eacute;liorer la vie quotidienne au travers de technologies &amp;quot;propres&amp;quot;. Notre portefeuille comporte des r&amp;eacute;seaux de distribution d&amp;#39;&amp;eacute;nergie, de promoteurs immobiliers &amp;eacute;cologiques, de soci&amp;eacute;t&amp;eacute;s de transport et des m&amp;eacute;dias. Nous poss&amp;eacute;dons &amp;eacute;galement plusieurs filiales qui utilisent la technologie digitale pour innover dans leurs industries comme les usines de fabrication non polluantes, les combustibles de nouvelle g&amp;eacute;n&amp;eacute;ration, les protoypes et le nettoyage propre.&lt;/p&gt;&#xA;"/>
                         </rich-text>
-                        <section--container--row--grid columnsType="predefinedColumns"
+                        <area columnsType="predefinedColumns"
                                                  grid="8_4"
                                                  gridLayout="full-width"
                                                  j:lastPublished="2016-12-02T17:19:53.106-05:00"
@@ -6221,7 +6221,7 @@
                                                  jcr:mixinTypes="bootstrap3mix:createContainer bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                  jcr:primaryType="bootstrap3nt:columns"
                                                  jcr:uuid="1956d2b2-b925-4f20-8aa5-7c12c005ebbf">
-                            <section--container--row--grid-main j:contributeTypes="jnt:bigText"
+                            <area-main j:contributeTypes="jnt:bigText"
                                                          j:editableInContribution="true"
                                                          j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                          j:lastPublishedBy="root"
@@ -6339,8 +6339,8 @@
                                              jcr:uuid="25bbaf69-3b95-4382-8bc7-a83328c477da"
                                              text="&lt;div class=&#34;headline&#34;&gt;&#xA;&lt;h2&gt;Faits&lt;/h2&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;tag-box tag-box-v2&#34;&gt;&lt;span class=&#34;dropcap-bg&#34;&gt;L&lt;/span&gt;a technologie&amp;nbsp;&lt;span style=&#34;color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&#34;&gt;consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&amp;nbsp;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;.&amp;nbsp;&lt;/div&gt;&#xA;"/>
                                 </rich-text-2>
-                            </section--container--row--grid-main>
-                            <section--container--row--grid-side j:contributeTypes="jnt:bigText jnt:imageReferenceLink"
+                            </area-main>
+                            <area-side j:contributeTypes="jnt:bigText jnt:imageReferenceLink"
                                                          j:editableInContribution="true"
                                                          j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                          j:lastPublishedBy="root"
@@ -6437,8 +6437,8 @@
                                              jcr:uuid="94116294-7ea2-4fa5-afe9-dc8db71a577e"
                                              text="&lt;div class=&#34;tag-box tag-box-v3&#34;&gt;Technologie&lt;span style=&#34;color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&#34;&gt;&amp;nbsp;dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/span&gt;.&amp;nbsp;&lt;/div&gt;&#xA;"/>
                                 </rich-text>
-                            </section--container--row--grid-side>
-                        </section--container--row--grid>
+                            </area-side>
+                        </area>
                         <rich-text-1 j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                j:lastPublishedBy="root"
                                j:originWS="default"
@@ -6494,7 +6494,7 @@
                                        jcr:uuid="019b3a6e-848a-4742-90e7-70dc1474e834"
                                        text="&lt;div style=&#34;display:inline-block;width=20%;padding-left: 50px;&#34;&gt;&lt;img alt=&#34;portrait-julie-hegebottom.jpg (Seriously confident)&#34; class=&#34;img-responsive img-bordered rounded-x&#34; src=&#34;##doc-context##/{workspace}/##ref:link1##&#34; style=&#34;width: 200px; height: 200px;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;&lt;div style=&#34;display:inline-block;width=70%;padding-left: 100px;padding-top: 70px;vertical-align:top;&#34;&gt;&#xA;&lt;blockquote class=&#34;bq-text-lg text-right&#34;&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&amp;quot;REPOSER SUR LA TECHNOLOGIE GARANTIE UN MEILLEUR FUTUR, AUJOURD&amp;#39;HUI.&amp;quot;&lt;br /&gt;&#xA;&lt;small&gt;&lt;em&gt;- Julie Hegebottom, CEO&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/div&gt;&#xA;"/>
                         </rich-text-1>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </about>
                 <corporate-responsibility j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                       j:lastPublishedBy="root"
@@ -6914,7 +6914,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Unsere Marken"
                                  jcr:uuid="c640fbcf-c011-4e00-a663-1e741707d411"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -7484,7 +7484,7 @@
                                           website="http://digitall.com"/>
                             </all-realty>
                         </companies>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </our-companies>
                 <newsroom j:lastPublished="2016-12-13T16:37:26.877-05:00"
                       j:lastPublishedBy="root"
@@ -7933,7 +7933,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Alle Nachrichten"
                                     jcr:uuid="2b89d9da-1700-4841-b4b3-bb9b9771c6d7"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -7954,7 +7954,7 @@
                                jcr:primaryType="jdnt:allStories"
                                jcr:uuid="3be1eb06-17d1-47e7-9939-8f082c238ddd"
                                startPage="/sites/digitall/home/newsroom"/>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </all-news>
                     <j:translation_fr j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                  j:lastPublishedBy="root"
@@ -7976,7 +7976,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Aktuelles"
                                  jcr:uuid="d45a1039-8092-4ed9-b162-1004ec81fb1a"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -7986,7 +7986,7 @@
                                                    jcr:lastModifiedBy="root"
                                                    jcr:primaryType="jnt:contentList"
                                                    jcr:uuid="d93a9dc8-1fd7-4f3c-9f3b-c514ee92d421">
-                        <top-stories internalLink="/sites/digitall/home/newsroom/all-news/section--container--row--grid-main/all-news"
+                        <top-stories internalLink="/sites/digitall/home/newsroom/all-news/area-main/all-news"
                                j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                j:lastPublishedBy="root"
                                j:level="first"
@@ -8011,7 +8011,7 @@
                                        jcr:uuid="9e7bc4e3-5c07-4ae6-9b98-f90fc1223a9f"
                                        linkTitle="More Top News"/>
                         </top-stories>
-                        <top-stories-1 internalLink="/sites/digitall/home/newsroom/all-news/section--container--row--grid-main/all-news"
+                        <top-stories-1 internalLink="/sites/digitall/home/newsroom/all-news/area-main/all-news"
                                  j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                  j:lastPublishedBy="root"
                                  j:level="second"
@@ -8036,7 +8036,7 @@
                                        jcr:uuid="5373a6a8-558e-481c-828e-3e2345342fae"
                                        linkTitle="More Featured News"/>
                         </top-stories-1>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </newsroom>
                 <investors j:lastPublished="2016-12-13T16:37:26.877-05:00"
                        j:lastPublishedBy="root"
@@ -8142,7 +8142,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Pressemitteilungen"
                                     jcr:uuid="a0b609ac-ca9b-44c4-9e53-c01781878a6b"/>
-                        <section--container--row--grid-main firstDirection="desc"
+                        <area-main firstDirection="desc"
                                                       firstField="date"
                                                       ignoreCase="true"
                                                       j:contributeTypes="jnt:press"
@@ -8773,7 +8773,7 @@
                                           jcr:uuid="2b477756-d613-4932-8216-08b598022aff"
                                           pdfVersion="/sites/digitall/files/images/pdf/Digitall Financial Report.pdf"/>
                             </q4-2015-earnings-release-1>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </press-releases-entry>
                     <events j:lastPublished="2016-12-13T16:37:31.058-05:00"
                        j:lastPublishedBy="root"
@@ -9281,7 +9281,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Kontakt"
                                     jcr:uuid="7f226822-3ebb-4471-aa5f-4a179f2e4c48"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -9302,7 +9302,7 @@
                                           jcr:primaryType="jdnt:investorContactList"
                                           jcr:uuid="984a3ef5-3ede-47cc-8db0-5ddef1dfdc48"
                                           maxItems="10"/>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </contacts>
                     <j:translation_fr j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                  j:lastPublishedBy="root"
@@ -9324,7 +9324,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Investoren"
                                  jcr:uuid="2adfe6b8-c1a5-4681-93e2-306b0d384125"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -9414,8 +9414,8 @@
                                        jcr:lastModifiedBy="root"
                                        jcr:primaryType="jdnt:investorContactForm"
                                        jcr:uuid="54f6840a-976c-4dfa-9b2a-a49b0083d16b"/>
-                    </section--container--row--grid-main>
-                    <section--container--row--grid-side j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    </area-main>
+                    <area-side j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -9524,7 +9524,7 @@
                                        jcr:title="Finanznachrichten"
                                        jcr:uuid="987174b6-6413-46f6-9a50-4286bc09edd6"/>
                         </press-release-search>
-                    </section--container--row--grid-side>
+                    </area-side>
                 </investors>
                 <search-results j:lastPublished="2016-12-13T16:37:31.058-05:00"
                             j:lastPublishedBy="root"
@@ -9592,7 +9592,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Suchergebnisse"
                                  jcr:uuid="e537cb00-90ff-48c9-bc10-f1cf93b58c2f"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -9626,7 +9626,7 @@
                                   jcr:lastModifiedBy="root"
                                   jcr:primaryType="jnt:searchResults"
                                   jcr:uuid="f846956c-6f43-4772-81c2-ce5a263a1a2b"/>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </search-results>
                 <landing j:lastPublished="2016-12-02T17:19:49.090-05:00"
                      j:lastPublishedBy="root"
@@ -9804,7 +9804,7 @@
                                        linkText="Préparez vous pour le futur"/>
                         </next-generation-success>
                         <see-great-movies backgroundImg="/sites/digitall/files/images/backgrounds/watching-movies.jpg"
-                                    internalLink="/sites/digitall/home/our-companies/section--container--row--grid-main/companies/all-movies"
+                                    internalLink="/sites/digitall/home/our-companies/area-main/companies/all-movies"
                                     j:lastPublished="2016-12-13T16:37:20.780-05:00"
                                     j:lastPublishedBy="root"
                                     j:originWS="default"
@@ -9873,7 +9873,7 @@
                               jcr:primaryType="jnt:translation"
                               jcr:title="Start"
                               jcr:uuid="c555efff-497b-4e09-90d3-5c2d00d3f79d"/>
-                <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                <area-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                 j:lastPublishedBy="root"
                                                 j:originWS="default"
                                                 j:published="true"
@@ -9894,7 +9894,7 @@
                        jcr:lastModifiedBy="root"
                        jcr:primaryType="jdnt:spacer"
                        jcr:uuid="4b5e1a73-c7fc-4d14-864b-68d2199ef379"/>
-                    <section--container--row--grid columnsType="nogrid"
+                    <area columnsType="nogrid"
                                               gridLayout="full-width"
                                               j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                               j:lastPublishedBy="root"
@@ -9907,7 +9907,7 @@
                                               jcr:mixinTypes="bootstrap3mix:createContainer"
                                               jcr:primaryType="bootstrap3nt:columns"
                                               jcr:uuid="eeb5b7c6-a0fd-4d27-b72b-ebc02256c9f7">
-                        <section--container--row--grid j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                        <area j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                  j:lastPublishedBy="root"
                                                  j:originWS="default"
                                                  j:published="true"
@@ -9917,7 +9917,7 @@
                                                  jcr:lastModifiedBy="root"
                                                  jcr:primaryType="jnt:contentList"
                                                  jcr:uuid="395c8639-e00e-4285-95da-64fe5f796714">
-                            <section--container--row--grid columnsType="predefinedColumns"
+                            <area columnsType="predefinedColumns"
                                                     grid="8_4"
                                                     j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                     j:lastPublishedBy="root"
@@ -9930,7 +9930,7 @@
                                                     jcr:mixinTypes="bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                     jcr:primaryType="bootstrap3nt:columns"
                                                     jcr:uuid="01bf0362-34d4-4f19-ad2c-afc3415f059c">
-                                <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                                <area-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                             j:lastPublishedBy="root"
                                                             j:originWS="default"
                                                             j:published="true"
@@ -9979,8 +9979,8 @@
                                                 jcr:uuid="789b56cb-a806-4731-8ebd-0f6d357b6e2a"
                                                 text="&lt;h1&gt;&lt;span class=&#34;color-green&#34; style=&#34;font-size:32px;&#34;&gt;Nous sommes un r&amp;eacute;seau mondial&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;h3 class=&#34;lead&#34;&gt;&lt;span style=&#34;font-size:18px;&#34;&gt;Digitall est un r&amp;eacute;seau mondial de soci&amp;eacute;t&amp;eacute; leader avec pour focus l&amp;#39;am&amp;eacute;lioration de la vie quotidienne par l&amp;#39;usage des technologies &amp;quot;propre&amp;quot;. Le&amp;nbsp;r&amp;eacute;seau de soci&amp;eacute;t&amp;eacute;s op&amp;eacute;rant sous&amp;nbsp;Digitall op&amp;egrave;rent sur le march&amp;eacute; des &amp;eacute;nergies alternatives, des habitations&amp;nbsp;conforment aux exigences &amp;eacute;cologiques,&amp;nbsp;des moyens de transports et des m&amp;eacute;dias. Digitall poss&amp;egrave;de &amp;eacute;galement diff&amp;eacute;rentes soci&amp;eacute;t&amp;eacute;s op&amp;eacute;rant sur plusieurs domaines qui utilisent l&amp;#39;innovation digitale pour am&amp;eacute;liorer leur industrie respective comme, par exemple, les usines de fabrication, les combustibles de nouvelle g&amp;eacute;n&amp;eacute;ration, la sant&amp;eacute;, les prototype et le nettoyage. Nous adressons des milliers de personnes chaque jour dans plus de 20 pays &amp;agrave; travers le monde.&lt;/span&gt;&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;&lt;a class=&#34;btn&#34; data-target=&#34;#demo&#34; data-toggle=&#34;collapse&#34; type=&#34;button&#34;&gt;Plus&lt;/a&gt;&lt;/p&gt;&#xA;"/>
                                     </global-network-rich-text>
-                                </section--container--row--grid-main>
-                                <section--container--row--grid-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                                </area-main>
+                                <area-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                             j:lastPublishedBy="root"
                                                             j:originWS="default"
                                                             j:published="true"
@@ -10030,9 +10030,9 @@
                                                 jcr:primaryType="jnt:translation"
                                                 jcr:uuid="209b41ad-f191-4ade-a843-af2b570ba648"/>
                                     </image-from-the-document-manager>
-                                </section--container--row--grid-side>
-                            </section--container--row--grid>
-                            <section--container--row--grid-1 columnsType="predefinedColumns"
+                                </area-side>
+                            </area>
+                            <area-1 columnsType="predefinedColumns"
                                                       grid="12"
                                                       j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                       j:lastPublishedBy="root"
@@ -10045,7 +10045,7 @@
                                                       jcr:mixinTypes="bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                       jcr:primaryType="bootstrap3nt:columns"
                                                       jcr:uuid="9dd56fce-0513-4bfd-816a-f4fe6d13954a">
-                                <section--container--row--grid-1-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                                <area-1-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                               j:lastPublishedBy="root"
                                                               j:originWS="default"
                                                               j:published="true"
@@ -10084,10 +10084,10 @@
                                                 jcr:uuid="d599995b-8c73-4167-92fc-981104395f16"
                                                 text="&lt;div class=&#34;collapse&#34; id=&#34;demo&#34;&gt;&#xA;&lt;h3 class=&#34;lead&#34;&gt;Les gens sont au c&amp;oelig;ur de tout ce que nous faisons. Par cons&amp;eacute;quent, nous nous impliquons dans des initiatives qui font du monde un meilleur endroit. Digitall est un membre de &amp;ldquo;Healthy Planet Advocate&amp;quot; et d&amp;eacute;veloppe des logement &amp;eacute;cologiques pour des communaut&amp;eacute;s locales, de plus Digitall participe a Food For Change, Clean Air Now ainsi que initiatives Healthy Families.&lt;/h3&gt;&#xA;&#xA;&lt;h3 class=&#34;lead&#34;&gt;&lt;br /&gt;&#xA;L&amp;#39;avenir est entre nos mains &amp;agrave; partir de maintenant. Que nous soyons d&amp;#39;accord ou non, la technologie EST l&amp;#39;&amp;eacute;conomie. Nos vies d&amp;eacute;pendent quotidiennement de diverses technologies. Les g&amp;eacute;n&amp;eacute;rations qui nous ont pr&amp;eacute;c&amp;eacute;d&amp;eacute;s, avec quelques exceptions notables comme Galileo ou Nikola Tesla, n&amp;rsquo;auraient pas pu pr&amp;eacute;voir le r&amp;ocirc;le de la technologie dans la vie quotidienne. De m&amp;ecirc;me, nous ne voyons aujourd&amp;#39;hui seulement qu&amp;rsquo;une petite partie du potentiel de ce qui sera la &amp;laquo;nouvelle normalit&amp;eacute;&amp;raquo; de demain. Affuter la fine pointe de la haute technologie dans tous les secteurs nous donne un avantage sans pr&amp;eacute;c&amp;eacute;dent dans la vie d&amp;rsquo;aujourd&amp;#39;hui et de demain.&lt;/h3&gt;&#xA;&#xA;&lt;h3 class=&#34;lead&#34;&gt;&lt;br /&gt;&#xA;Trop souvent, le prix de la technologie est une plus grande empreinte carbone, &amp;eacute;puisant les ressources naturelles et en laissant les &amp;eacute;l&amp;eacute;ments les plus fondamentaux de l&amp;#39;humanit&amp;eacute; derri&amp;egrave;re. Quand les gens &amp;agrave; la fin de la vie sont interrog&amp;eacute;s sur ce qui compte, la r&amp;eacute;ponse est in&amp;eacute;vitablement l&amp;#39;amour, la famille, les relations et la bonne sant&amp;eacute;. L&amp;#39;air pur, l&amp;#39;eau douce, les maisons et les familles en bonne sant&amp;eacute; - ce sont les &amp;eacute;l&amp;eacute;ments essentiels du bien vivre. Nous &amp;agrave; Digitall nous engageons &amp;agrave; vous aider &amp;agrave; aller dans ce sens.&lt;span style=&#34;font-size:18px;&#34;&gt;.&lt;/span&gt;&lt;/h3&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     </global-network-rich-text-p2>
-                                </section--container--row--grid-1-main>
-                            </section--container--row--grid-1>
-                        </section--container--row--grid>
-                    </section--container--row--grid>
+                                </area-1-main>
+                            </area-1>
+                        </area>
+                    </area>
                     <highlights bottomMargin="30"
                            j:lastPublished="2016-12-02T17:19:49.090-05:00"
                            j:lastPublishedBy="root"
@@ -10150,7 +10150,7 @@
                                        jcr:uuid="85c2e5d5-be00-48f5-b903-29800295f069"/>
                         </our-companies>
                         <leading-by-example image="/sites/digitall/files/images/slides/wood-trees-house-branches.jpg"
-                                      internalLink="/sites/digitall/home/our-companies/section--container--row--grid-main/companies/all-organic-foods"
+                                      internalLink="/sites/digitall/home/our-companies/area-main/companies/all-organic-foods"
                                       j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                       j:lastPublishedBy="root"
                                       j:originWS="default"
@@ -10247,7 +10247,7 @@
                                        jcr:uuid="09458a2a-46f2-43dd-b2d1-4472eebfbb3c"/>
                         </people-first>
                     </highlights>
-                    <section--container--row--grid-2 columnsType="predefinedColumns"
+                    <area-2 columnsType="predefinedColumns"
                                                 grid="4_4_4"
                                                 gridLayout="full-width"
                                                 j:lastPublished="2016-12-02T17:19:49.090-05:00"
@@ -10261,7 +10261,7 @@
                                                 jcr:mixinTypes="bootstrap3mix:createContainer bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                 jcr:primaryType="bootstrap3nt:columns"
                                                 jcr:uuid="ea490176-3dfd-42fe-961d-2147797bdd45">
-                        <section--container--row--grid-2-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                        <area-2-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -10306,8 +10306,8 @@
                                           jcr:title="Aktienkurs"
                                           jcr:uuid="215a2d8a-ab6d-43a2-9708-497e56001d14"/>
                             </stockwidget>
-                        </section--container--row--grid-2-main>
-                        <section--container--row--grid-2-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                        </area-2-main>
+                        <area-2-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -10348,8 +10348,8 @@
                                           jcr:title="Veranstaltungen"
                                           jcr:uuid="9ad79b93-cd5a-40a6-88d3-10dc53b703a0"/>
                             </event-tab-query>
-                        </section--container--row--grid-2-side>
-                        <section--container--row--grid-2-extra j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        </area-2-side>
+                        <area-2-extra j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                          j:lastPublishedBy="root"
                                                          j:originWS="default"
                                                          j:published="true"
@@ -10391,8 +10391,8 @@
                                           jcr:title="Aktuelle Pressemitteilungen"
                                           jcr:uuid="b0335837-0d0c-4c9d-976d-cec024d04bf5"/>
                             </latest-press-releases>
-                        </section--container--row--grid-2-extra>
-                    </section--container--row--grid-2>
+                        </area-2-extra>
+                    </area-2>
                     <global-presence j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                 j:lastPublishedBy="root"
                                 j:originWS="default"
@@ -10434,7 +10434,7 @@
                                     jcr:title="Une Présence Globale"
                                     jcr:uuid="8941b434-ebe7-4e57-9807-d278a5706e5c"/>
                     </global-presence>
-                    <section--container--row--grid-1 columnsType="predefinedColumns"
+                    <area-1 columnsType="predefinedColumns"
                                                 grid="4_8"
                                                 gridLayout="full-width"
                                                 j:lastPublished="2016-12-02T17:19:53.106-05:00"
@@ -10448,7 +10448,7 @@
                                                 jcr:mixinTypes="bootstrap3mix:createContainer bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                 jcr:primaryType="bootstrap3nt:columns"
                                                 jcr:uuid="91ba7a0e-2ea2-46a0-acec-980c3737b1c1">
-                        <section--container--row--grid-1-side j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        <area-1-side j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -10496,8 +10496,8 @@
                                           jcr:uuid="4a140961-d1b9-427c-8936-2a4e2d2c7254"
                                           text="&lt;p&gt;Le r&amp;eacute;seau global de Digitall apporte une perspective unique sur l&amp;#39;&amp;eacute;tat actuel de notre soci&amp;eacute;t&amp;eacute;. Afin de r&amp;eacute;pondre &amp;agrave; plus de clients sur nos march&amp;eacute;s, il est vital de reposer sur la technologie pour accroitre la puissance des personne et r&amp;eacute;duire l&amp;#39;attente des clients. Toute soci&amp;eacute;t&amp;eacute; qui ne suit pas la v&amp;eacute;locit&amp;eacute; du march&amp;eacute; sera bloqu&amp;eacute;e. D&amp;#39;autant que l&amp;#39;Economie est aujourd&amp;#39;hui bas&amp;eacute;e sur des relations &amp;eacute;quitable. Digitall est fi&amp;egrave;re de ses valeur d&amp;#39;int&amp;eacute;grit&amp;eacute; de respect et de loyaut&amp;eacute; dans la mise en oeuvre de sa croissance. Les relations d&amp;#39;affaires reposent avant toutes choses sur les personnes. Nous avons conscience que nos clients sont des individus qui souhaitent que nous r&amp;eacute;solvions leurs probl&amp;egrave;mes ou r&amp;eacute;pondions &amp;agrave; un besoin - et nous sommes l&amp;agrave; pour les aider &amp;agrave; ce moment pr&amp;eacute;cis. Et nous pouvons vous aider &amp;agrave; faire de m&amp;ecirc;me.&lt;/p&gt;&#xA;"/>
                             </global-presence-rich-text>
-                        </section--container--row--grid-1-side>
-                        <section--container--row--grid-1-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        </area-1-side>
+                        <area-1-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -10533,8 +10533,8 @@
                                           jcr:title="Global Presence"
                                           jcr:uuid="e9785b6b-0f8d-49b4-8ed3-b03cd97dcf37"/>
                             </global-presence-video>
-                        </section--container--row--grid-1-main>
-                    </section--container--row--grid-1>
+                        </area-1-main>
+                    </area-1>
                     <our-companies j:lastPublished="2016-12-13T16:37:26.877-05:00"
                               j:lastPublishedBy="root"
                               j:originWS="default"
@@ -10623,7 +10623,7 @@
                                     jcr:title="Comment utiliser cette démonstration"
                                     jcr:uuid="15e65430-617f-4ba2-acf0-3b9fd785b4ea"/>
                     </how-to-use-this-demo>
-                </section--container--row--grid-main>
+                </area-main>
                 <demo-roles-and-users j:lastPublished="2016-12-13T16:37:31.058-05:00"
                                   j:lastPublishedBy="root"
                                   j:originWS="default"
@@ -10646,7 +10646,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Demo Roles and Users"
                                  jcr:uuid="58bb41da-8a31-49aa-a4dc-6884aa3c17f0"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -10695,7 +10695,7 @@
                                        jcr:uuid="bb0f8643-a215-46aa-a280-b476572692ac"
                                        text="&lt;h2&gt;Comment utiliser cette d&amp;eacute;monstration ?&lt;/h2&gt;&#xA;&#xA;&lt;p&gt;Vous pouvez d&amp;eacute;couvrir &lt;strong&gt;DX 7&lt;/strong&gt; en naviguant dans ce site avec les profils suivants (login / mot de passe) :&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;&lt;strong&gt;root / root (si vous utilisez le package de d&amp;eacute;monstration, sinon le mot de passe du root est celui qui a &amp;eacute;t&amp;eacute; cr&amp;eacute;&amp;eacute; lors de l&amp;#39;utilisation de l&amp;#39;outil d&amp;#39;installation Jahia)&lt;/strong&gt;&amp;nbsp;: le &lt;strong&gt;super administrateur&lt;/strong&gt; du serveur DX avec acc&amp;egrave;s &amp;agrave; l&amp;#39;interface d&amp;#39;administration compl&amp;egrave;te du serveur et au Jahia Studio si ce dernier a &amp;eacute;t&amp;eacute; activ&amp;eacute; lors de l&amp;#39;installation et la configuration de votre instance DX&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;bill / password&lt;/strong&gt; : &amp;quot;&lt;strong&gt;l&amp;#39;administrateur du site&lt;/strong&gt;&amp;quot;&amp;nbsp;avec acc&amp;egrave;s &amp;agrave; l&amp;#39;interface d&amp;#39;administration du site en plus des fonctionnalit&amp;eacute;s autoris&amp;eacute;es pour &amp;quot;l&amp;#39;Editeur en chef&amp;quot;.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;anne / password&lt;/strong&gt; : &amp;quot;&lt;strong&gt;l&amp;#39;Editeur en chef&lt;/strong&gt;&amp;quot; du site&amp;nbsp;qui peut acc&amp;eacute;der aux modes &amp;quot;Edition&amp;quot; et &amp;quot;Contribution&amp;quot;, et qui de ce fait peut&amp;nbsp;cr&amp;eacute;er et modifier du contenu ainsi que la structure du site, des pages sur l&amp;#39;ensemble du site dont il peut &amp;eacute;galement personnaliser l&amp;#39;acc&amp;egrave;s.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;mathias / password&lt;/strong&gt; : un &amp;quot;&lt;strong&gt;&amp;eacute;diteur&amp;quot;&lt;/strong&gt;&amp;nbsp;du site&amp;nbsp;acc&amp;eacute;dant &amp;agrave; l&amp;#39;interface de gestion avanc&amp;eacute;e &amp;quot;Edit Mode&amp;quot; diposant de fonctionnalit&amp;eacute;s riche d&amp;#39;organisation et de personnalisation des contenus et du site.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;jane / password&lt;/strong&gt; : une &amp;quot;&lt;strong&gt;contributrice&amp;quot;&lt;/strong&gt; au site&amp;nbsp;acc&amp;eacute;dant &amp;agrave; une interface simple et efficace de cr&amp;eacute;ation de contenu dans les sections qui lui sont autoris&amp;eacute;es.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;irina / password&lt;/strong&gt; : une &amp;quot;&lt;strong&gt;responsable de la validation&lt;/strong&gt;&amp;quot; du contenu sur le site (workflow &amp;agrave; 1 &amp;eacute;tape)&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;jay / password&lt;/strong&gt; : un &amp;quot;&lt;strong&gt;visiteur&lt;/strong&gt;&amp;quot; identifi&amp;eacute; pouvant de ce fait participer aux outils communautaires (blog, forum) pr&amp;eacute;sents sur le site.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;"/>
                         </bigText>
-                    </section--container--row--grid-main>
+                    </area-main>
                     <landing j:lastPublished="2016-12-02T17:19:59.517-05:00"
                         j:lastPublishedBy="root"
                         j:originWS="default"

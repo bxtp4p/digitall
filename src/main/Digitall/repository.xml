@@ -5431,7 +5431,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Historie"
                                     jcr:uuid="8ea34be0-1be7-4bf6-8f6e-7e83ca66c606"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -6085,7 +6085,7 @@
                                                 jcr:uuid="c8b2b8ec-33a2-4370-808b-a5c432758a75"/>
                                 </merger-with-acme-space-ltd-is-of>
                             </timeline>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </history>
                     <leadership j:lastPublished="2016-12-13T16:37:26.877-05:00"
                            j:lastPublishedBy="root"
@@ -6157,7 +6157,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Geschäftsführung"
                                     jcr:uuid="f4d1067f-d3fc-46ea-a10a-471d71ed2ab5"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -6355,7 +6355,7 @@
                                                 jcr:uuid="fba2a81a-1dd6-40ff-a04e-72d42ee68fd6"/>
                                 </bob-aschel>
                             </list-of-people>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </leadership>
                     <landing j:lastPublished="2016-12-02T17:19:53.106-05:00"
                         j:lastPublishedBy="root"
@@ -6415,7 +6415,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Über uns"
                                  jcr:uuid="07c0c6c6-b06f-420e-9ad3-03c66deaa328"/>
-                    <section--container--row--grid-main j:contributeTypes="jnt:bigText"
+                    <area-main j:contributeTypes="jnt:bigText"
                                                    j:editableInContribution="true"
                                                    j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                    j:lastPublishedBy="root"
@@ -6472,7 +6472,7 @@
                                           jcr:uuid="6636a9ab-c555-4258-b9ba-a28fbb1ff884"
                                           text="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Digitall ist ein globales Netzwerk von f&amp;uuml;hrenden Unternehmen mit einem einheitlichen Fokus auf der Verbesserung der Alltagsleben durch &amp;quot;saubere&amp;quot; Technologie. Digitalls Markennetze und zahlreichen Unternehmen bieten alternative Energien, Niedrigenergie- und &amp;Ouml;koh&amp;auml;user, umweltfreundliche Produkte und Null Emission Medien. Wir besitzen auch eine Vielzahl von Unternehmen in zahlreichen Branchen, die digitale Technologie verwenden, um ihre Branchen zu erneuern, einschlie&amp;szlig;lich umweltfreundlicher Fertigung, Kraftstoffe der n&amp;auml;chsten Generation, Innovationen im Gesundheitswesen und umweltfreundliche Patente zur chemischen Reinigung.&lt;/span&gt;&lt;/p&gt;&#xA;"/>
                         </rich-text>
-                        <section--container--row--grid columnsType="predefinedColumns"
+                        <area columnsType="predefinedColumns"
                                                  grid="8_4"
                                                  gridLayout="full-width"
                                                  j:lastPublished="2016-12-02T17:19:53.106-05:00"
@@ -6486,7 +6486,7 @@
                                                  jcr:mixinTypes="bootstrap3mix:createContainer bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                  jcr:primaryType="bootstrap3nt:columns"
                                                  jcr:uuid="1956d2b2-b925-4f20-8aa5-7c12c005ebbf">
-                            <section--container--row--grid-main j:contributeTypes="jnt:bigText"
+                            <area-main j:contributeTypes="jnt:bigText"
                                                          j:editableInContribution="true"
                                                          j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                          j:lastPublishedBy="root"
@@ -6622,8 +6622,8 @@
                                                 jcr:uuid="8672f667-4028-4f42-a026-65c64ebab7de"
                                                 text="&lt;div class=&#34;headline&#34;&gt;&#xA;&lt;h2&gt;Fakten&lt;/h2&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;tag-box tag-box-v2&#34;&gt;&lt;span class=&#34;dropcap-bg&#34;&gt;T&lt;/span&gt;echnologie ist nicht mehr ein Spielzeug, stattdessen ist Technologie der Motor der heutigen Wirtschaft. Fast jede Person ist heute digital verbunden oder verwendet digitale Technologie (die vollautomatischen T&amp;uuml;ren im Lebensmittelladen oder mit seinem Smartphone). Durch Nutzung solcher Technologien, ver&amp;auml;ndert sich unser t&amp;auml;gliches Lebens exponentiell. Verantwortlich Entwicklung von Technologien der n&amp;auml;chsten Generation ist der bedeutendste Mittelpunkt den wir haben, um den Menschen ein schnelles und besser Leben zu bieten. Durch unsere vision&amp;auml;ren Ideen, schaffen wir dass Innovation in unseren gesamten Unternehmensgruppe sich entwickeln k&amp;ouml;nnen.&amp;nbsp;&lt;/div&gt;&#xA;"/>
                                 </rich-text-2>
-                            </section--container--row--grid-main>
-                            <section--container--row--grid-side j:contributeTypes="jnt:bigText jnt:imageReferenceLink"
+                            </area-main>
+                            <area-side j:contributeTypes="jnt:bigText jnt:imageReferenceLink"
                                                          j:editableInContribution="true"
                                                          j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                          j:lastPublishedBy="root"
@@ -6726,8 +6726,8 @@
                                                 jcr:uuid="8ff9858a-f1d5-4da5-bf56-b9be4113a41b"
                                                 text="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Technologie ist die tragende S&amp;auml;ule des t&amp;auml;glichen Lebens. Durch die Entwicklung von Technologie die zu einem reibungslos und umweltfreundlichen Lebensunterhalt sorgen, erm&amp;ouml;glichen wir es den Menschen Ihre Energie f&amp;uuml;r eine bessere Lebensqualit&amp;auml;t zu verwenden und schonen die nat&amp;uuml;rlicher Ressourcen unseres Planetens. Lassen Sie sich durch das Video inspireren, und sehen Sie wie Ihr Leben und Ihre Gesundheit ver&amp;auml;ndert durch die Technik. Folgen Sie unserer Unternehmen und besuchen Sie die Webseiten der Unternehmer, und lassen Sie uns Ihre Leben durch unsere Technick positiv zu unterst&amp;uuml;tzen.&lt;/span&gt;&lt;/p&gt;&#xA;"/>
                                 </rich-text>
-                            </section--container--row--grid-side>
-                        </section--container--row--grid>
+                            </area-side>
+                        </area>
                         <rich-text-1 j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                j:lastPublishedBy="root"
                                j:originWS="default"
@@ -6789,7 +6789,7 @@
                                           jcr:uuid="d0067ad9-14d8-452f-b868-5892920b5307"
                                           text="&lt;div style=&#34;display:inline-block;width=20%;padding-left: 50px;&#34;&gt;&lt;img alt=&#34;portrait-julie-hegebottom.jpg (Seriously confident)&#34; class=&#34;img-responsive img-bordered rounded-x&#34; src=&#34;##doc-context##/{workspace}/##ref:link1##&#34; style=&#34;width: 200px; height: 200px;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;&lt;div style=&#34;display:inline-block;width=70%;padding-left: 100px;padding-top: 70px;vertical-align:top;&#34;&gt;&#xA;&lt;blockquote class=&#34;bq-text-lg text-right&#34;&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&amp;quot;Technik ist die Anstrengung, Anstrengungen zu ersparen.&amp;quot;&lt;br /&gt;&#xA;&lt;small&gt;&lt;em&gt;- Julie Hegebottom, CEO&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/div&gt;&#xA;"/>
                         </rich-text-1>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </about>
                 <corporate-responsibility j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                       j:lastPublishedBy="root"
@@ -7273,7 +7273,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Unsere Marken"
                                  jcr:uuid="c640fbcf-c011-4e00-a663-1e741707d411"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -7915,7 +7915,7 @@
                                           website="http://digitall.com"/>
                             </all-realty>
                         </companies>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </our-companies>
                 <newsroom j:lastPublished="2016-12-13T16:37:26.877-05:00"
                       j:lastPublishedBy="root"
@@ -8405,7 +8405,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Alle Nachrichten"
                                     jcr:uuid="2b89d9da-1700-4841-b4b3-bb9b9771c6d7"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -8426,7 +8426,7 @@
                                jcr:primaryType="jdnt:allStories"
                                jcr:uuid="3be1eb06-17d1-47e7-9939-8f082c238ddd"
                                startPage="/sites/digitall/home/newsroom"/>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </all-news>
                     <j:translation_fr j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                  j:lastPublishedBy="root"
@@ -8455,7 +8455,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Aktuelles"
                                  jcr:uuid="d45a1039-8092-4ed9-b162-1004ec81fb1a"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -8465,7 +8465,7 @@
                                                    jcr:lastModifiedBy="root"
                                                    jcr:primaryType="jnt:contentList"
                                                    jcr:uuid="d93a9dc8-1fd7-4f3c-9f3b-c514ee92d421">
-                        <top-stories internalLink="/sites/digitall/home/newsroom/all-news/section--container--row--grid-main/all-news"
+                        <top-stories internalLink="/sites/digitall/home/newsroom/all-news/area-main/all-news"
                                j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                j:lastPublishedBy="root"
                                j:level="first"
@@ -8490,7 +8490,7 @@
                                        jcr:uuid="9e7bc4e3-5c07-4ae6-9b98-f90fc1223a9f"
                                        linkTitle="More Top News"/>
                         </top-stories>
-                        <top-stories-1 internalLink="/sites/digitall/home/newsroom/all-news/section--container--row--grid-main/all-news"
+                        <top-stories-1 internalLink="/sites/digitall/home/newsroom/all-news/area-main/all-news"
                                  j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                  j:lastPublishedBy="root"
                                  j:level="second"
@@ -8515,7 +8515,7 @@
                                        jcr:uuid="5373a6a8-558e-481c-828e-3e2345342fae"
                                        linkTitle="More Featured News"/>
                         </top-stories-1>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </newsroom>
                 <investors j:lastPublished="2016-12-13T16:37:26.877-05:00"
                        j:lastPublishedBy="root"
@@ -8636,7 +8636,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Pressemitteilungen"
                                     jcr:uuid="a0b609ac-ca9b-44c4-9e53-c01781878a6b"/>
-                        <section--container--row--grid-main firstDirection="desc"
+                        <area-main firstDirection="desc"
                                                       firstField="date"
                                                       ignoreCase="true"
                                                       j:contributeTypes="jnt:press"
@@ -9371,7 +9371,7 @@
                                              jcr:title="Zahlen zum 4. Quartal 2015"
                                              jcr:uuid="1240926f-e939-4ff0-bb75-059b802d58d0"/>
                             </q4-2015-earnings-release-1>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </press-releases-entry>
                     <events j:lastPublished="2016-12-13T16:37:31.058-05:00"
                        j:lastPublishedBy="root"
@@ -9930,7 +9930,7 @@
                                     jcr:primaryType="jnt:translation"
                                     jcr:title="Kontakt"
                                     jcr:uuid="7f226822-3ebb-4471-aa5f-4a179f2e4c48"/>
-                        <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
+                        <area-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
                                                       j:lastPublishedBy="root"
                                                       j:originWS="default"
                                                       j:published="true"
@@ -9951,7 +9951,7 @@
                                           jcr:primaryType="jdnt:investorContactList"
                                           jcr:uuid="984a3ef5-3ede-47cc-8db0-5ddef1dfdc48"
                                           maxItems="10"/>
-                        </section--container--row--grid-main>
+                        </area-main>
                     </contacts>
                     <j:translation_fr j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                  j:lastPublishedBy="root"
@@ -9980,7 +9980,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Investoren"
                                  jcr:uuid="2adfe6b8-c1a5-4681-93e2-306b0d384125"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -10076,8 +10076,8 @@
                                        jcr:lastModifiedBy="root"
                                        jcr:primaryType="jdnt:investorContactForm"
                                        jcr:uuid="54f6840a-976c-4dfa-9b2a-a49b0083d16b"/>
-                    </section--container--row--grid-main>
-                    <section--container--row--grid-side j:lastPublished="2016-12-02T17:19:56.026-05:00"
+                    </area-main>
+                    <area-side j:lastPublished="2016-12-02T17:19:56.026-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -10207,7 +10207,7 @@
                                           jcr:title="Finanznachrichten"
                                           jcr:uuid="6481bd6a-03ff-40c2-b795-deca294cb812"/>
                         </press-release-search>
-                    </section--container--row--grid-side>
+                    </area-side>
                 </investors>
                 <search-results j:lastPublished="2016-12-13T16:37:31.058-05:00"
                             j:lastPublishedBy="root"
@@ -10283,7 +10283,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Suchergebnisse"
                                  jcr:uuid="e537cb00-90ff-48c9-bc10-f1cf93b58c2f"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -10317,7 +10317,7 @@
                                   jcr:lastModifiedBy="root"
                                   jcr:primaryType="jnt:searchResults"
                                   jcr:uuid="f846956c-6f43-4772-81c2-ce5a263a1a2b"/>
-                    </section--container--row--grid-main>
+                    </area-main>
                 </search-results>
                 <landing j:lastPublished="2016-12-02T17:19:49.090-05:00"
                      j:lastPublishedBy="root"
@@ -10522,7 +10522,7 @@
                                           linkText="Machen Sie sich bereit für die Zukunft"/>
                         </next-generation-success>
                         <see-great-movies backgroundImg="/sites/digitall/files/images/backgrounds/watching-movies.jpg"
-                                    internalLink="/sites/digitall/home/our-companies/section--container--row--grid-main/companies/all-movies"
+                                    internalLink="/sites/digitall/home/our-companies/area-main/companies/all-movies"
                                     j:lastPublished="2016-12-13T16:37:20.780-05:00"
                                     j:lastPublishedBy="root"
                                     j:originWS="default"
@@ -10607,7 +10607,7 @@
                               jcr:primaryType="jnt:translation"
                               jcr:title="Start"
                               jcr:uuid="c555efff-497b-4e09-90d3-5c2d00d3f79d"/>
-                <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                <area-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                 j:lastPublishedBy="root"
                                                 j:originWS="default"
                                                 j:published="true"
@@ -10628,7 +10628,7 @@
                        jcr:lastModifiedBy="root"
                        jcr:primaryType="jdnt:spacer"
                        jcr:uuid="4b5e1a73-c7fc-4d14-864b-68d2199ef379"/>
-                    <section--container--row--grid columnsType="nogrid"
+                    <area columnsType="nogrid"
                                               gridLayout="full-width"
                                               j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                               j:lastPublishedBy="root"
@@ -10641,7 +10641,7 @@
                                               jcr:mixinTypes="bootstrap3mix:createContainer"
                                               jcr:primaryType="bootstrap3nt:columns"
                                               jcr:uuid="eeb5b7c6-a0fd-4d27-b72b-ebc02256c9f7">
-                        <section--container--row--grid j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                        <area j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                  j:lastPublishedBy="root"
                                                  j:originWS="default"
                                                  j:published="true"
@@ -10651,7 +10651,7 @@
                                                  jcr:lastModifiedBy="root"
                                                  jcr:primaryType="jnt:contentList"
                                                  jcr:uuid="395c8639-e00e-4285-95da-64fe5f796714">
-                            <section--container--row--grid columnsType="predefinedColumns"
+                            <area columnsType="predefinedColumns"
                                                     grid="8_4"
                                                     j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                     j:lastPublishedBy="root"
@@ -10664,7 +10664,7 @@
                                                     jcr:mixinTypes="bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                     jcr:primaryType="bootstrap3nt:columns"
                                                     jcr:uuid="01bf0362-34d4-4f19-ad2c-afc3415f059c">
-                                <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                                <area-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                             j:lastPublishedBy="root"
                                                             j:originWS="default"
                                                             j:published="true"
@@ -10719,8 +10719,8 @@
                                                    jcr:uuid="a613c840-6b4e-4bc7-b4e1-5172827526ff"
                                                    text="&lt;h1&gt;&lt;span style=&#34;font-size:32px;&#34;&gt;&lt;font color=&#34;#e54d3b&#34;&gt;Digitall - Ein globales Netzwerk&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&#xA;&#xA;&lt;h5 class=&#34;lead&#34;&gt;&lt;span style=&#34;font-size:18px;&#34;&gt;Digitall ist ein globales Netzwerk von f&amp;uuml;hrenden Unternehmen mit einem einheitlichen Fokus auf der Verbesserung der Alltagsleben durch &amp;quot;saubere&amp;quot; Technologie. Digitalls Markennetze und zahlreichen Unternehmen bieten alternative Energien, Niedrigenergie- und &amp;Ouml;koh&amp;auml;user, umweltfreundliche Produkte und Null Emission Medien. Wir besitzen auch eine Vielzahl von Unternehmen in zahlreichen Branchen, die digitale Technologie verwenden, um ihre Branchen zu erneuern, einschlie&amp;szlig;lich umweltfreundlicher Fertigung, Kraftstoffe der n&amp;auml;chsten Generation, Innovationen im Gesundheitswesen und umweltfreundliche Patente zur chemischen Reinigung. Wir helfen jetzt schon Tausende von Menschen jeden Tag in mehr als 20 L&amp;auml;ndern auf der ganzen Welt.&lt;/span&gt;&lt;/h5&gt;&#xA;"/>
                                     </global-network-rich-text>
-                                </section--container--row--grid-main>
-                                <section--container--row--grid-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                                </area-main>
+                                <area-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                             j:lastPublishedBy="root"
                                                             j:originWS="default"
                                                             j:published="true"
@@ -10776,9 +10776,9 @@
                                                    jcr:primaryType="jnt:translation"
                                                    jcr:uuid="0796829c-de67-40d8-86ca-5958850bdc72"/>
                                     </image-from-the-document-manager>
-                                </section--container--row--grid-side>
-                            </section--container--row--grid>
-                            <section--container--row--grid-1 columnsType="predefinedColumns"
+                                </area-side>
+                            </area>
+                            <area-1 columnsType="predefinedColumns"
                                                       grid="12"
                                                       j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                       j:lastPublishedBy="root"
@@ -10791,7 +10791,7 @@
                                                       jcr:mixinTypes="bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                       jcr:primaryType="bootstrap3nt:columns"
                                                       jcr:uuid="9dd56fce-0513-4bfd-816a-f4fe6d13954a">
-                                <section--container--row--grid-1-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                                <area-1-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                               j:lastPublishedBy="root"
                                                               j:originWS="default"
                                                               j:published="true"
@@ -10830,10 +10830,10 @@
                                                 jcr:uuid="d599995b-8c73-4167-92fc-981104395f16"
                                                 text="&lt;div class=&#34;collapse&#34; id=&#34;demo&#34;&gt;&#xA;&lt;h3 class=&#34;lead&#34;&gt;Les gens sont au c&amp;oelig;ur de tout ce que nous faisons. Par cons&amp;eacute;quent, nous nous impliquons dans des initiatives qui font du monde un meilleur endroit. Digitall est un membre de &amp;ldquo;Healthy Planet Advocate&amp;quot; et d&amp;eacute;veloppe des logement &amp;eacute;cologiques pour des communaut&amp;eacute;s locales, de plus Digitall participe a Food For Change, Clean Air Now ainsi que initiatives Healthy Families.&lt;/h3&gt;&#xA;&#xA;&lt;h3 class=&#34;lead&#34;&gt;&lt;br /&gt;&#xA;L&amp;#39;avenir est entre nos mains &amp;agrave; partir de maintenant. Que nous soyons d&amp;#39;accord ou non, la technologie EST l&amp;#39;&amp;eacute;conomie. Nos vies d&amp;eacute;pendent quotidiennement de diverses technologies. Les g&amp;eacute;n&amp;eacute;rations qui nous ont pr&amp;eacute;c&amp;eacute;d&amp;eacute;s, avec quelques exceptions notables comme Galileo ou Nikola Tesla, n&amp;rsquo;auraient pas pu pr&amp;eacute;voir le r&amp;ocirc;le de la technologie dans la vie quotidienne. De m&amp;ecirc;me, nous ne voyons aujourd&amp;#39;hui seulement qu&amp;rsquo;une petite partie du potentiel de ce qui sera la &amp;laquo;nouvelle normalit&amp;eacute;&amp;raquo; de demain. Affuter la fine pointe de la haute technologie dans tous les secteurs nous donne un avantage sans pr&amp;eacute;c&amp;eacute;dent dans la vie d&amp;rsquo;aujourd&amp;#39;hui et de demain.&lt;/h3&gt;&#xA;&#xA;&lt;h3 class=&#34;lead&#34;&gt;&lt;br /&gt;&#xA;Trop souvent, le prix de la technologie est une plus grande empreinte carbone, &amp;eacute;puisant les ressources naturelles et en laissant les &amp;eacute;l&amp;eacute;ments les plus fondamentaux de l&amp;#39;humanit&amp;eacute; derri&amp;egrave;re. Quand les gens &amp;agrave; la fin de la vie sont interrog&amp;eacute;s sur ce qui compte, la r&amp;eacute;ponse est in&amp;eacute;vitablement l&amp;#39;amour, la famille, les relations et la bonne sant&amp;eacute;. L&amp;#39;air pur, l&amp;#39;eau douce, les maisons et les familles en bonne sant&amp;eacute; - ce sont les &amp;eacute;l&amp;eacute;ments essentiels du bien vivre. Nous &amp;agrave; Digitall nous engageons &amp;agrave; vous aider &amp;agrave; aller dans ce sens.&lt;span style=&#34;font-size:18px;&#34;&gt;.&lt;/span&gt;&lt;/h3&gt;&#xA;&lt;/div&gt;&#xA;"/>
                                     </global-network-rich-text-p2>
-                                </section--container--row--grid-1-main>
-                            </section--container--row--grid-1>
-                        </section--container--row--grid>
-                    </section--container--row--grid>
+                                </area-1-main>
+                            </area-1>
+                        </area>
+                    </area>
                     <highlights bottomMargin="30"
                            j:lastPublished="2016-12-02T17:19:49.090-05:00"
                            j:lastPublishedBy="root"
@@ -10904,7 +10904,7 @@
                                           jcr:uuid="8e9cca58-a91e-4d9b-8006-536069165573"/>
                         </our-companies>
                         <leading-by-example image="/sites/digitall/files/images/slides/wood-trees-house-branches.jpg"
-                                      internalLink="/sites/digitall/home/our-companies/section--container--row--grid-main/companies/all-organic-foods"
+                                      internalLink="/sites/digitall/home/our-companies/area-main/companies/all-organic-foods"
                                       j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                       j:lastPublishedBy="root"
                                       j:originWS="default"
@@ -11017,7 +11017,7 @@
                                           jcr:uuid="f425257b-eaa1-483b-9f9b-4226ad60dbf8"/>
                         </people-first>
                     </highlights>
-                    <section--container--row--grid-2 columnsType="predefinedColumns"
+                    <area-2 columnsType="predefinedColumns"
                                                 grid="4_4_4"
                                                 gridLayout="full-width"
                                                 j:lastPublished="2016-12-02T17:19:49.090-05:00"
@@ -11031,7 +11031,7 @@
                                                 jcr:mixinTypes="bootstrap3mix:createContainer bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                 jcr:primaryType="bootstrap3nt:columns"
                                                 jcr:uuid="ea490176-3dfd-42fe-961d-2147797bdd45">
-                        <section--container--row--grid-2-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                        <area-2-main j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -11083,8 +11083,8 @@
                                              jcr:title="Aktienkurs"
                                              jcr:uuid="4e368875-74fa-4fdf-9210-e211afd771ac"/>
                             </stockwidget>
-                        </section--container--row--grid-2-main>
-                        <section--container--row--grid-2-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
+                        </area-2-main>
+                        <area-2-side j:lastPublished="2016-12-02T17:19:49.090-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -11132,8 +11132,8 @@
                                              jcr:title="Veranstaltungen"
                                              jcr:uuid="59db8d70-998a-4d98-a98f-f84c13e75249"/>
                             </event-tab-query>
-                        </section--container--row--grid-2-side>
-                        <section--container--row--grid-2-extra j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        </area-2-side>
+                        <area-2-extra j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                          j:lastPublishedBy="root"
                                                          j:originWS="default"
                                                          j:published="true"
@@ -11182,8 +11182,8 @@
                                              jcr:title="Aktuelle Pressemitteilungen"
                                              jcr:uuid="56ecc48d-9db8-4f93-b5c6-c7fdf6db89c1"/>
                             </latest-press-releases>
-                        </section--container--row--grid-2-extra>
-                    </section--container--row--grid-2>
+                        </area-2-extra>
+                    </area-2>
                     <global-presence j:lastPublished="2016-12-13T16:37:26.877-05:00"
                                 j:lastPublishedBy="root"
                                 j:originWS="default"
@@ -11232,7 +11232,7 @@
                                        jcr:title="Globale Präsenz"
                                        jcr:uuid="82df94a1-35be-4bc8-8445-7fc625da5e80"/>
                     </global-presence>
-                    <section--container--row--grid-1 columnsType="predefinedColumns"
+                    <area-1 columnsType="predefinedColumns"
                                                 grid="4_8"
                                                 gridLayout="full-width"
                                                 j:lastPublished="2016-12-02T17:19:53.106-05:00"
@@ -11246,7 +11246,7 @@
                                                 jcr:mixinTypes="bootstrap3mix:createContainer bootstrap3mix:createRow bootstrap3mix:predefinedColumns"
                                                 jcr:primaryType="bootstrap3nt:columns"
                                                 jcr:uuid="91ba7a0e-2ea2-46a0-acec-980c3737b1c1">
-                        <section--container--row--grid-1-side j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        <area-1-side j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -11300,8 +11300,8 @@
                                              jcr:uuid="f161d6ed-ad89-48fc-9788-9ca98b4b828e"
                                              text="&lt;p class=&#34;p1&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Digitall&amp;#39;s globales Unternehmensnetzwerk verleiht uns eine einzigartige Gesch&amp;auml;ftsperspektive. Um den Bed&amp;uuml;rfnissen der Verbraucher gerecht zu werden, ist es unumg&amp;auml;nglich, Technologie zu nutzen, um schnellere Leistungen zu erbringen und dabei die Arbeitskraft zu optimieren. Jedes Unternehmen, welches diese Tempo nicht mitgeht, wird es mittelfristig schwer haben. Angesichts der Tatsache, dass jede Gesch&amp;auml;ftsbeziehung Vertrauen f&amp;uuml;r eine langfristige Beziehung ben&amp;ouml;tigt, steht bei Digitall immer die Integrit&amp;auml;t, der Respekt und die Loyalit&amp;auml;t im Vordergrund. Bei jeder Gesch&amp;auml;ftsbeziehung steht deshalb der Mensch im Mittelpunkt. Den wir Wissen, dass jeder Kunde nur erfolgreich sein kann, wenn wir auch die individuellen Gesch&amp;auml;ftsvorg&amp;auml;nge abbilden.&amp;nbsp;Wir freuen uns, Ihnen helfen zu k&amp;ouml;nnen.&lt;/span&gt;&lt;/p&gt;&#xA;"/>
                             </global-presence-rich-text>
-                        </section--container--row--grid-1-side>
-                        <section--container--row--grid-1-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
+                        </area-1-side>
+                        <area-1-main j:lastPublished="2016-12-02T17:19:53.106-05:00"
                                                         j:lastPublishedBy="root"
                                                         j:originWS="default"
                                                         j:published="true"
@@ -11344,8 +11344,8 @@
                                              jcr:title="Globale Präsenz"
                                              jcr:uuid="23e5f7e4-b73b-46ed-b674-d4366b6e18a4"/>
                             </global-presence-video>
-                        </section--container--row--grid-1-main>
-                    </section--container--row--grid-1>
+                        </area-1-main>
+                    </area-1>
                     <our-companies j:lastPublished="2016-12-13T16:37:26.877-05:00"
                               j:lastPublishedBy="root"
                               j:originWS="default"
@@ -11434,7 +11434,7 @@
                                     jcr:title="Wie Sie diese Demo"
                                     jcr:uuid="2b7a4652-e40e-44e3-b2c2-f70d1cf0f48d"/>
                     </how-to-use-this-demo>
-                </section--container--row--grid-main>
+                </area-main>
                 <demo-roles-and-users j:lastPublished="2016-12-13T16:37:31.058-05:00"
                                   j:lastPublishedBy="root"
                                   j:originWS="default"
@@ -11458,7 +11458,7 @@
                                  jcr:primaryType="jnt:translation"
                                  jcr:title="Demo Roles and Users"
                                  jcr:uuid="58bb41da-8a31-49aa-a4dc-6884aa3c17f0"/>
-                    <section--container--row--grid-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
+                    <area-main j:lastPublished="2016-12-02T17:19:59.517-05:00"
                                                    j:lastPublishedBy="root"
                                                    j:originWS="default"
                                                    j:published="true"
@@ -11507,7 +11507,7 @@
                                        jcr:uuid="3c2a00ff-eab2-4cf8-867f-7e1e2a130a3f"
                                        text="&lt;h2&gt;So nutzen Sie diese Demo-Version&lt;/h2&gt;&#xA;&#xA;&lt;p&gt;Sie k&amp;ouml;nnen Jahia DX 7 mit folgenden Anwendern erkunden (Login/ Passwort):&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA; &lt;li&gt;&lt;strong&gt;root&amp;nbsp;/ root (Wenn Sie das spezifische Demo Pack nutzen. Ansonsten ist das Root-Passwort dasjenige, das gesetzt wird, wenn Sie das Jahia Installations-Tool verwenden.)&lt;/strong&gt;: Der &lt;strong&gt;Server-Administrator&lt;/strong&gt;&amp;nbsp;dieser DX Instanz (mit Zugriff auf die komplette Server-Administrationsoberfl&amp;auml;che inklusive Jahia Studio, wenn dies w&amp;auml;hrend der Installation und dem Setup des DX so eingerichtet wurde)&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;bill / password&lt;/strong&gt;:&amp;nbsp;Der &lt;strong&gt;Website-Administrator,&lt;/strong&gt; hat dieselben Redaktionsfunktionen wie der &amp;bdquo;Chefredakteur&amp;ldquo;, allerdings mit Zugriff auf den Administrationsbereich der Website.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;anne / password&lt;/strong&gt;: Die &lt;strong&gt;Chefredakteurin&lt;/strong&gt;, hat Zugriff auf den Edit- und Contribute-Modus mit Schreib- und &amp;Auml;nderungs-Berechtigung f&amp;uuml;r die gesamte Website und Zugriff auf die Personalisierungsfunktionen, die Seitenstruktur und den Content.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;mathias / password&lt;/strong&gt;: Ein &lt;strong&gt;Redakteur&lt;/strong&gt;, hat Zugriff auf die &amp;ldquo;Edit-Modus&amp;rdquo;-Oberfl&amp;auml;che, die mehr Redaktionsm&amp;ouml;glichkeiten bietet als der &amp;bdquo;Contribute-Modus&amp;ldquo;.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;jane / password&lt;/strong&gt;: Ein &lt;strong&gt;Contributor&lt;/strong&gt;, hat Zugriff auf den &amp;bdquo;Contribute-Modus&amp;ldquo; und kann einfachen Content erstellen.&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;irina / password&lt;/strong&gt;: Eine &lt;strong&gt;Content-Pr&amp;uuml;ferin&lt;/strong&gt;, die die Richtigkeit des Contents pr&amp;uuml;ft (einstufiger Workflow).&lt;/li&gt;&#xA; &lt;li&gt;&lt;strong&gt;jay / password&lt;/strong&gt;: Ein eingeloggter &lt;strong&gt;Besucher&lt;/strong&gt;&amp;nbsp;der Website, der die Berechtigung hat, mit den Community-Tools der Website wie etwa Forum und Blog zu interagieren.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;"/>
                         </bigText>
-                    </section--container--row--grid-main>
+                    </area-main>
                     <landing j:lastPublished="2016-12-02T17:19:59.517-05:00"
                         j:lastPublishedBy="root"
                         j:originWS="default"
