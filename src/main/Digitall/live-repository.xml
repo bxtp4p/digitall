@@ -6937,7 +6937,7 @@
                             <all-movies bannerImg="/sites/digitall/files/images/slides/iStock_000045817332_Full.jpg"
                                  facebook="http://facebook.com"
                                  googlePlus="http://plus.google.com"
-                                 industryCat="media"
+                                 industryCat="/sites/systemsite/categories/companies/media"
                                  j:country="US"
                                  j:lastPublished="2016-12-13T16:37:20.780-05:00"
                                  j:lastPublishedBy="root"
@@ -7034,7 +7034,7 @@
                             <all-sports bannerImg="/sites/digitall/files/images/slides/fans-stadium.jpg"
                                  facebook="http://facebook.com"
                                  googlePlus="http://plus.google.com"
-                                 industryCat="media"
+                                 industryCat="/sites/systemsite/categories/companies/media"
                                  j:country="US"
                                  j:lastPublished="2016-12-13T16:37:20.780-05:00"
                                  j:lastPublishedBy="root"
@@ -7126,7 +7126,7 @@
                             <all-organic-foods bannerImg="/sites/digitall/files/images/banners/street-market-fruits-grocery.jpg"
                                         facebook="http://facebook.com"
                                         googlePlus="http://google.com/plus"
-                                        industryCat="retail"
+                                        industryCat="/sites/systemsite/categories/companies/retail"
                                         j:country="US"
                                         j:lastPublished="2016-12-13T16:37:20.780-05:00"
                                         j:lastPublishedBy="root"
@@ -7318,7 +7318,7 @@
                             <all-news bannerImg="/sites/digitall/files/images/slides/newspaper.jpg"
                                facebook="http://facebook.com"
                                googlePlus="http://google.com/plus"
-                               industryCat="media"
+                               industryCat="/sites/systemsite/categories/companies/media"
                                j:country="US"
                                j:lastPublished="2016-12-13T16:37:20.780-05:00"
                                j:lastPublishedBy="root"
@@ -7374,7 +7374,7 @@
                             <all-med bannerImg="/sites/digitall/files/images/backgrounds/healthcare.jpg"
                               facebook="http://facebook.com"
                               googlePlus="http://google.com/plus"
-                              industryCat="healthcare"
+                              industryCat="/sites/systemsite/categories/companies/healthcare"
                               j:country="US"
                               j:lastPublished="2016-12-13T16:37:24.171-05:00"
                               j:lastPublishedBy="root"
@@ -7430,7 +7430,7 @@
                             <all-realty bannerImg="/sites/digitall/files/images/banners/da-agency.jpg"
                                  facebook="http://facebook.com"
                                  googlePlus="http://google.com/plus"
-                                 industryCat="retail"
+                                 industryCat="/sites/systemsite/categories/companies/retail"
                                  j:country="US"
                                  j:lastPublished="2016-12-13T16:37:24.171-05:00"
                                  j:lastPublishedBy="root"
@@ -10897,6 +10897,60 @@
                                  jcr:title="Annual Filings"
                                  jcr:uuid="330c2c33-372e-4496-9b8e-ae7fcd21807d"/>
                 </annual-filings>
+                <companies j:lastPublished="2017-05-15T14:23:54.287+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2017-05-05T15:59:33.679+02:00" jcr:createdBy="root" jcr:lastModified="2017-05-15T14:23:54.238+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:category">
+                    <j:translation_en j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="en" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <j:translation_de j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <j:translation_pt j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="pt" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <j:translation_it j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="it" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <j:translation_fr j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="fr" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <j:translation_es j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="es" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <j:translation_de_DE j:lastPublished="2017-05-05T15:59:33.837+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de_DE" jcr:lastModified="2017-05-05T15:59:33.829+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Companies" />
+                    <media j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2017-05-05T15:59:59.821+02:00" jcr:createdBy="root" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:category">
+                        <j:translation_en j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="en" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                        <j:translation_de j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                        <j:translation_pt j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="pt" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                        <j:translation_it j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="it" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                        <j:translation_fr j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="fr" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                        <j:translation_es j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="es" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                        <j:translation_de_DE j:lastPublished="2017-05-05T15:59:59.921+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de_DE" jcr:lastModified="2017-05-05T15:59:59.910+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Media" />
+                    </media>
+                    <technology j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2017-05-05T16:00:17.068+02:00" jcr:createdBy="root" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:category">
+                        <j:translation_en j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="en" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                        <j:translation_de j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                        <j:translation_pt j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="pt" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                        <j:translation_it j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="it" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                        <j:translation_fr j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="fr" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                        <j:translation_es j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="es" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                        <j:translation_de_DE j:lastPublished="2017-05-05T16:00:17.189+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de_DE" jcr:lastModified="2017-05-05T16:00:17.183+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Technology" />
+                    </technology>
+                    <retail j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2017-05-05T16:00:43.244+02:00" jcr:createdBy="root" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:category">
+                        <j:translation_en j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="en" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                        <j:translation_de j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                        <j:translation_pt j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="pt" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                        <j:translation_it j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="it" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                        <j:translation_fr j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="fr" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                        <j:translation_es j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="es" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                        <j:translation_de_DE j:lastPublished="2017-05-05T16:00:43.327+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de_DE" jcr:lastModified="2017-05-05T16:00:43.320+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Retail" />
+                    </retail>
+                    <goods j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2017-05-05T16:00:52.374+02:00" jcr:createdBy="root" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:category">
+                        <j:translation_en j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="en" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                        <j:translation_de j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                        <j:translation_pt j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="pt" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                        <j:translation_it j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="it" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                        <j:translation_fr j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="fr" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                        <j:translation_es j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="es" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                        <j:translation_de_DE j:lastPublished="2017-05-05T16:00:52.468+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de_DE" jcr:lastModified="2017-05-05T16:00:52.461+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Goods" />
+                    </goods>
+                    <healthcare j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2017-05-05T16:01:01.273+02:00" jcr:createdBy="root" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:category">
+                        <j:translation_en j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="en" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                        <j:translation_de j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                        <j:translation_pt j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="pt" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                        <j:translation_it j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="it" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                        <j:translation_fr j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="fr" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                        <j:translation_es j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="es" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                        <j:translation_de_DE j:lastPublished="2017-05-05T16:01:01.366+02:00" j:lastPublishedBy="root" j:published="true" jcr:language="de_DE" jcr:lastModified="2017-05-05T16:01:01.360+02:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:translation" jcr:title="Healthcare" />
+                    </healthcare>
+                </companies>
             </categories>
         </systemsite>
     </sites>
