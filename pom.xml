@@ -62,9 +62,10 @@
         <url>https://github.com/Jahia/digitall</url>
       <tag>HEAD</tag>
   </scm>
-  
+
   <properties>
     <jahia-module-type>system</jahia-module-type>
+    <jahia-depends>default,dx-base-demo-components,dx-base-demo-core,dx-base-demo-templates,bookmarks</jahia-depends>
   </properties>
 
     <repositories>
