@@ -60,8 +60,8 @@
         <connection>scm:git:git@github.com:Jahia/digitall.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/digitall.git</developerConnection>
         <url>https://github.com/Jahia/digitall</url>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>1_0_x</tag>
+    </scm>
 
   <properties>
     <jahia-module-type>system</jahia-module-type>
