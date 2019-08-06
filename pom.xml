@@ -53,14 +53,14 @@
     </parent>
     <artifactId>digitall</artifactId>
     <name>Digitall Demo</name>
-    <version>1.1.0</version>
+    <version>1.1.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <description>This module enables prepackaged Digitall Demo Website for use in Web Projects in the Server Settings.</description>
     <scm>
         <connection>scm:git:git@github.com:Jahia/digitall.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/digitall.git</developerConnection>
         <url>https://github.com/Jahia/digitall</url>
-        <tag>1_1_0</tag>
+        <tag>1_1_x</tag>
     </scm>
 
   <properties>
